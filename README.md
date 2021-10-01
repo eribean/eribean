@@ -4,13 +4,18 @@ I am a data scientist / engineer, psychometrician, and fullstack enthusiast. I f
 
 #### Repositories and Projects
 **GIRTH**: An Item Response Theory Package </br>
-![PyPI - Downloads](https://img.shields.io/pypi/dm/girth)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/girth?style=flat-square&color=darkgreen)
+
+**GIRTH MCMC**: A Markov Chain Monte Carlo add on for Girth</br>
+![PyPI - Downloads](https://img.shields.io/pypi/dm/girth_mcmc?style=flat-square&color=darkgreen)
 
 
 **RyStats**: A collection of inferential statistical functions. </br>
-![PyPI - Downloads](https://img.shields.io/pypi/dm/rystats)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/rystats?style=flat-square&color=darkgreen)
 
 **GoFactor**: Online Statistical Web Application. </br>
+Graphical User Interface for commonly used Inferential Statistics
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-GoFactor-blue?style=for-the-badge" />](https://gofactr.com) 
 </br></br>
 ### Programming Languages
