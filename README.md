@@ -13,10 +13,10 @@ I am a data scientist / engineer, psychometrician, and fullstack enthusiast. I f
 **RyStats**: A collection of inferential statistical functions. </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/rystats?style=flat-square&color=darkgreen)
 
-**GoFactor**: Online Statistical Web Application. </br>
+**GoFactr**: Online Statistical Web Application. </br>
 Graphical User Interface for commonly used Inferential Statistics
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-GoFactor-blue?style=for-the-badge" />](https://gofactr.com) 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-GoFactr-blue?style=for-the-badge" />](https://gofactr.com) 
 </br></br>
 ### Programming Languages and Operating Systems
 
