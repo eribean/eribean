@@ -39,7 +39,7 @@ Graphical User Interface for commonly used Inferential Statistics
 </br></br>
 
 ### Education
-[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://drive.google.com/file/d/1I3jeWV99JLO-6ZKazr0ndgqj2rvoFODv/view?usp=sharing) 
+[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://drive.google.com/file/d/1Vvx_UwFDk7TvGY6K83bKwhbgvJyaWuQf/view?usp=sharing) 
 </br></br>
 
 1. University of Wyoming</br>B.S. Physics
