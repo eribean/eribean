@@ -39,12 +39,14 @@ Graphical User Interface for commonly used Inferential Statistics
 </br></br>
 
 ### Education
-[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://drive.google.com/file/d/1Vvx_UwFDk7TvGY6K83bKwhbgvJyaWuQf/view?usp=sharing) 
+[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://drive.google.com/file/d/1Vvx_UwFDk7TvGY6K83bKwhbgvJyaWuQf/view?usp=sharing)
+</br>
+
+[<img align="left" alt="Education" src="https://img.shields.io/badge/U%20of%20Wyoming-B.S.%20Physics-%23563D7C?style=for-the-badge" />](http://www.uwyo.edu/physics/)
+</br>
+
+[<img align="left" alt="Education" src="https://img.shields.io/badge/Western%20Washington-B.S.%20Psychology-%23563D7C?style=for-the-badge" />](https://chss.wwu.edu/psychology)
+</br>
+
+[<img align="left" alt="Education" src="https://img.shields.io/badge/Georgia%20Tech-M.S.%20Quantitative%20Psychology-%23563D7C?style=for-the-badge" />](https://psychology.gatech.edu/)
 </br></br>
-
-1. University of Wyoming</br>B.S. Physics
-
-2. Western Washington University</br>B.S. Psychology
-
-3. Georgia Tech</br>M.S. Quantitative Psychology
-
