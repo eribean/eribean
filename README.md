@@ -2,6 +2,11 @@
 
 I am a data scientist / engineer, psychometrician, and fullstack enthusiast. I focus on providing open-source solutions and developing novel algorithms to benefit the education domain. 
 
+[![Eribean's GitHub stats](https://github-readme-stats.vercel.app/api?username=eribean&theme=radical)](https://github.com/eribean/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eribean&theme=radical&layout=compact)](https://github.com/eribean/github-readme-stats)
+
+
 #### Repositories and Projects
 **GIRTH**: An Item Response Theory Package </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/girth?style=flat-square&color=darkgreen)
@@ -50,3 +55,5 @@ Graphical User Interface for commonly used Inferential Statistics
 
 [<img align="left" alt="Education" src="https://img.shields.io/badge/Georgia%20Tech-M.S.%20Quantitative%20Psychology-%23563D7C?style=for-the-badge" />](https://psychology.gatech.edu/)
 </br></br>
+
+
